@@ -1,0 +1,12 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name":"Reader List",
+    "action":{
+        "default_popup":"ext.html",
+        "default_locale": "en"
+    },
+    "permissions":[
+        "tabs"
+    ]
+}
